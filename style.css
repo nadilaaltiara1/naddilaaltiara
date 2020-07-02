@@ -1,0 +1,13 @@
+.jumbotron {
+background-image:url(img/h.jpeg);
+	background-size:cover;
+	height: 600px;
+	text-align: center;
+}
+.jumbotron .display-4{
+color:#warning;
+}
+.jumbotron p {
+color:#000000;
+
+}

@@ -1,0 +1,23 @@
+html{
+	position:relative
+	
+}
+
+body{
+	margin-bottom:120 px;
+	margin-top:30px;
+}
+
+.jumbotron{
+	background-image:url('../   img/img1.jpg')
+	background-attachment:fixed
+	backround-size:cover;
+	background-position: 0 -100px;
+
+.jumbotron img{
+	width:: 200px;
+	border::50x solid #333;
+}
+
+hr{
+	width::250px;
